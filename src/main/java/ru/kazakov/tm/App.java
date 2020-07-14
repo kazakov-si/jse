@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import static ru.kazakov.tm.constant.TerminalConst.*;
 
-public class Main {
+public class App {
 
     public static void main(String[] args) {
         run(args);
