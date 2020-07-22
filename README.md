@@ -2,18 +2,22 @@
 
 #### 1. Требования к  SOFTWARE
 
-- OPENJDK 11
+- Java OpenJDK 11;
+- Apache Maven 3.6.1.
 
-#### 2. Стек технологий
+#### 2. Используемый стек технологий
 
-- Apache Maven 3
+- Java SE;
+- Apache Maven.
 
 #### 3. Разработчик
-Name: Kazakov Sergey
 
-Email: kazakov_si@nlmk.com
+- Автор: *Казаков Сергей*
+- e-mail [личный]: *kazak605@gmail.com*
+- e-mail [рабочий]: *kazakov_si@nlmk.com*
 
 #### 4. Команды для сборки приложения
+
 ```mvn clean``` - Удаление всех созданных в процессе сборки артефактов
 
 ```mvn compile``` - Компилирование проекта
@@ -29,6 +33,21 @@ Email: kazakov_si@nlmk.com
 
 Команда для запуска приложения:
 ```bash
-java -jar target/task-manager-1.0.0.jar help
+java -jar target/task-manager-1.0.0.jar
 ```  
 
+Терминальные команды:
+
+* help - Отображение списка терминальных команд;
+
+* version - Отображение версии программы;
+
+* about - Отображение информации об разработчике;
+
+* exit - Выход из программы.
+
+Пример запуска приложения с теринальной командой:
+
+```bash
+java -jar target/jse-04-1.0-SNAPSHOT.jar help
+```
