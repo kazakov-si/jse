@@ -1,5 +1,9 @@
 # Task Manager
 
+#### Резервный репозиторий
+
+- Резервный репозиторий расположен на [github](https://https://github.com/kazakov-si/jse)
+
 #### 1. Требования к  SOFTWARE
 
 - Java OpenJDK 11;
