@@ -2,7 +2,7 @@
 
 #### Резервный репозиторий
 
-- Резервный репозиторий расположен на [github](https://https://github.com/kazakov-si/jse)
+- Резервный репозиторий расположен на [github](https://github.com/kazakov-si/jse)
 
 #### 1. Требования к  SOFTWARE
 
